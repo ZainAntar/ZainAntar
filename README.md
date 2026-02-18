@@ -12,7 +12,6 @@ Currently improving my skills in React Native, Unity, and backend fundamentals.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Mobile+Developer;Cybersecurity+Enthusiast)
 
 - Frontend: HTML, CSS, JavaScript  
 - Mobile: React Native, Expo  
