@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zain Antar 👋
 
-<!--
-**ZainAntar/ZainAntar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer passionate about building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer focused on creating clean, efficient code and solving real-world problems through technology. I enjoy working on diverse projects and continuously expanding my technical skill set.
+
+## 💻 Tech Stack
+
+**Languages:** Python, JavaScript, Java, C++  
+**Frameworks & Tools:** React, Node.js, Git, Docker  
+**Interests:** Web Development, Machine Learning, Open Source
+
+## 📫 Get in Touch
+
+- GitHub: [@ZainAntar](https://github.com/ZainAntar)
+- LinkedIn: [Connect with me](https://linkedin.com/in/zainantar)
+- Email: zain.antar@example.com
+
+---
+
+💡 *Always learning, always building.*
