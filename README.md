@@ -15,6 +15,12 @@ Currently improving my skills in React Native, Unity, and backend fundamentals.
 - Backend: Node.js (learning)  
 - Tools: Git, Linux  
 
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+
 ## 📚 Currently Learning
 - Advanced JavaScript patterns  
 - Mobile app optimization  
