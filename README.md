@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**ZainAntar/ZainAntar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+📍 Turkey  
+💡 Focused on mobile development, web technologies, and game development
 
-Here are some ideas to get you started:
+I enjoy building practical apps and simple but scalable game ideas.  
+Currently improving my skills in React Native, Unity, and backend fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Mobile: React Native, Expo  
+- Game Dev: Unity (learning)  
+- Backend: Node.js (learning)  
+- Tools: Git, Linux  
+
+## 📚 Currently Learning
+- Advanced JavaScript patterns  
+- Mobile app optimization  
+- Game mechanics & monetization models
+
+## 🎯 Goal
+Build clean, efficient, and scalable projects — from simple mobile apps to addictive casual games.
+
+## 📫 Contact
+- Email: zainantar08@gmail.com
+
