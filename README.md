@@ -7,6 +7,7 @@
 
 I enjoy building practical apps and simple but scalable game ideas.  
 Currently improving my skills in React Native, Unity, and backend fundamentals.
+Fluent in English, Arabic, and Turkish
 
 ## 🚀 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
