@@ -2,8 +2,7 @@
 
 🎓 Student  
 📍 Istanbul
-
-✨ Fluent in English, Arabic, and Turkish
+✨ Fluent in English, Arabic and Turkish
 
 
 💡 Focused on mobile development, web technologies, and game development
