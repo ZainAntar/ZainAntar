@@ -2,6 +2,7 @@
 
 🎓 Student  
 📍 Istanbul
+
 ✨ Fluent in English, Arabic, and Turkish
 
 
