@@ -4,7 +4,6 @@
 📍 Istanbul
 ✨ Fluent in English, Arabic and Turkish
 
-
 💡 Focused on mobile development, web technologies, and game development
 
 I enjoy building practical apps and simple but scalable game ideas.  
