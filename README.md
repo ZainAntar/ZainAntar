@@ -30,5 +30,5 @@ Currently improving my skills in React Native, Unity, and backend fundamentals.
 Build clean, efficient, and scalable projects — from simple mobile apps to addictive casual games.
 
 ## 📫 Contact
-- Email: zainantar08@gmail.com
+- Email: antar.zain1@gmail.com
 
