@@ -17,7 +17,6 @@ Currently improving my skills in React Native, Unity, and backend fundamentals.
 
 - Frontend: HTML, CSS, JavaScript  
 - Mobile: React Native, Expo  
-- Game Dev: Unity (learning)  
 - Backend: Node.js (learning)  
 - Tools: Git, Linux  
 
